@@ -1,8 +1,9 @@
 
 我是王炸，分享日常中我看到的，我学到的。
-可以关注我的公众号，也可以加我微信，欢迎和我聊天。
+这里有对新人最友好的教程，
+可以关注我的公众号，也可以加我微信，欢迎和我聊天，建立和年轻人的通道。
 
-
+![image](https://github.com/yetaimei/be_coder/blob/master/img/webdev101-programming.png)
 
 ## 0基础到王者
 1. [读研2年，我选择从中科院退学转行写代码](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904693&idx=1&sn=65a2245b2347bfa91d6411db0a7f99a1&chksm=88c42abbbfb3a3adbb77b44ed898ee04311c363d86c6e08dc1bf2ebc305953e799b628f6604d#rd)
