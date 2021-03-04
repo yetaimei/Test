@@ -7,14 +7,15 @@
 
 ![image](https://github.com/yetaimei/be_coder/blob/master/img/webdev101-programming.png)
 
-## 0基础到王者
-1. [读研2年，我选择从中科院退学转行写代码](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904693&idx=1&sn=65a2245b2347bfa91d6411db0a7f99a1&chksm=88c42abbbfb3a3adbb77b44ed898ee04311c363d86c6e08dc1bf2ebc305953e799b628f6604d#rd)
-2. [【转行程序员】30岁想转行还能做什么？月入两万职位大比拼](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904646&idx=1&sn=12ac759843a2c0b6373946adbf90d4e7&chksm=88c42a88bfb3a39ee46730c34d604343ebf0ed47ce89e5562766c63db13be02c44c72ef7debe#rd)
-3. [一个月真的可以学会一门语言吗？](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904525&idx=1&sn=2a969730a84763f31a4dc0273539312d&chksm=88c42d03bfb3a4155d776ac02e796cc77943b5269a8ef84ac763ee2dfd50d0981576450ef93d#rd)
-4. [快速学好一门编程语言](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904302&idx=1&sn=280af66ccf08a280485310b1af951f57&chksm=88c42c20bfb3a53676289822fbb74b0382046d80d7944ad17575f77ca476c6a47b5ffbef7051#rd)
-5. [Java和Python哪个更适合初学者的问题](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904296&idx=1&sn=04bae5d405f8b699a868d66c99488969&chksm=88c42c26bfb3a530df34b0ccc078c091f8d5dfc804c4948d832538203d660c2d08bde79e141c#rd)
-6. [我花一个月时间整理了新人转行IT最爱问都问题](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904252&idx=1&sn=e5b2db011d788baf196c8442dd8d67a9&chksm=88c42cf2bfb3a5e49b381592c33373f9e3798ac04b0ed66bae97eba13592c04762e53dd688d2#rd)
-7. [年薪40w，你需要具备什么技能。](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904150&idx=1&sn=5b4075177dcf73e1bce41c9246c5dd04&chksm=88c42c98bfb3a58e557c348613b0ba96794462d78bd8fbe683de30d68bf3e7a45d8cb97cbd17#rd)
+## 0基础到王者 
+1. [新人第一课，什么是程序](https://github.com/yetaimei/be_coder/blob/master/doc/%E6%96%B0%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%AF%BE%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E7%A8%8B%E5%BA%8F.md)
+2. [读研2年，我选择从中科院退学转行写代码](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904693&idx=1&sn=65a2245b2347bfa91d6411db0a7f99a1&chksm=88c42abbbfb3a3adbb77b44ed898ee04311c363d86c6e08dc1bf2ebc305953e799b628f6604d#rd)
+3. [【转行程序员】30岁想转行还能做什么？月入两万职位大比拼](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904646&idx=1&sn=12ac759843a2c0b6373946adbf90d4e7&chksm=88c42a88bfb3a39ee46730c34d604343ebf0ed47ce89e5562766c63db13be02c44c72ef7debe#rd)
+4. [一个月真的可以学会一门语言吗？](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904525&idx=1&sn=2a969730a84763f31a4dc0273539312d&chksm=88c42d03bfb3a4155d776ac02e796cc77943b5269a8ef84ac763ee2dfd50d0981576450ef93d#rd)
+5. [快速学好一门编程语言](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904302&idx=1&sn=280af66ccf08a280485310b1af951f57&chksm=88c42c20bfb3a53676289822fbb74b0382046d80d7944ad17575f77ca476c6a47b5ffbef7051#rd)
+6. [Java和Python哪个更适合初学者的问题](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904296&idx=1&sn=04bae5d405f8b699a868d66c99488969&chksm=88c42c26bfb3a530df34b0ccc078c091f8d5dfc804c4948d832538203d660c2d08bde79e141c#rd)
+7. [我花一个月时间整理了新人转行IT最爱问都问题](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904252&idx=1&sn=e5b2db011d788baf196c8442dd8d67a9&chksm=88c42cf2bfb3a5e49b381592c33373f9e3798ac04b0ed66bae97eba13592c04762e53dd688d2#rd)
+8. [年薪40w，你需要具备什么技能。](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904150&idx=1&sn=5b4075177dcf73e1bce41c9246c5dd04&chksm=88c42c98bfb3a58e557c348613b0ba96794462d78bd8fbe683de30d68bf3e7a45d8cb97cbd17#rd)
 
 ## Java基础
 1. [新人学习写程序的第一道坎](http://mp.weixin.qq.com/s?__biz=MzA3MDg4MDIyNQ==&mid=2449904797&idx=1&sn=910b88474a98f29df9a9b59a2b8ddc03&chksm=88c42a13bfb3a3050ff0f2cabca046ba30f3ccf041fd4af5a04c7bff402395559471d4424830#rd)
